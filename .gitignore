@@ -1,0 +1,4 @@
+*.sublime-project
+*.sublime-workspace
+*.egg-info
+__pycache__
