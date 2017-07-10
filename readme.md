@@ -5,6 +5,9 @@
 Auto bup backup using fsevents on OS X
 
 
+- tested on python 3
+
+
 Example usage:
 
 
@@ -14,10 +17,7 @@ Example usage:
 - Run in the background `nohup autobup > /usr/local/var/log/autobup.log &`
 
 
-- Requires MacFSEvents
-
-`https://pypi.python.org/pypi/MacFSEvents`
-
+- Requires MacFSEvents `https://pypi.python.org/pypi/MacFSEvents`
 
 
 - Example `.bupignore` file:
